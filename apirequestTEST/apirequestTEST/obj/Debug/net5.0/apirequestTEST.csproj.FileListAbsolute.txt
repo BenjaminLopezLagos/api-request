@@ -1,0 +1,16 @@
+C:\Users\Benja\source\repos\apirequestTEST\apirequestTEST\bin\Debug\net5.0\apirequestTEST.exe
+C:\Users\Benja\source\repos\apirequestTEST\apirequestTEST\bin\Debug\net5.0\apirequestTEST.deps.json
+C:\Users\Benja\source\repos\apirequestTEST\apirequestTEST\bin\Debug\net5.0\apirequestTEST.runtimeconfig.json
+C:\Users\Benja\source\repos\apirequestTEST\apirequestTEST\bin\Debug\net5.0\apirequestTEST.runtimeconfig.dev.json
+C:\Users\Benja\source\repos\apirequestTEST\apirequestTEST\bin\Debug\net5.0\apirequestTEST.dll
+C:\Users\Benja\source\repos\apirequestTEST\apirequestTEST\bin\Debug\net5.0\ref\apirequestTEST.dll
+C:\Users\Benja\source\repos\apirequestTEST\apirequestTEST\bin\Debug\net5.0\apirequestTEST.pdb
+C:\Users\Benja\source\repos\apirequestTEST\apirequestTEST\obj\Debug\net5.0\apirequestTEST.csproj.AssemblyReference.cache
+C:\Users\Benja\source\repos\apirequestTEST\apirequestTEST\obj\Debug\net5.0\apirequestTEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benja\source\repos\apirequestTEST\apirequestTEST\obj\Debug\net5.0\apirequestTEST.AssemblyInfoInputs.cache
+C:\Users\Benja\source\repos\apirequestTEST\apirequestTEST\obj\Debug\net5.0\apirequestTEST.AssemblyInfo.cs
+C:\Users\Benja\source\repos\apirequestTEST\apirequestTEST\obj\Debug\net5.0\apirequestTEST.csproj.CoreCompileInputs.cache
+C:\Users\Benja\source\repos\apirequestTEST\apirequestTEST\obj\Debug\net5.0\apirequestTEST.dll
+C:\Users\Benja\source\repos\apirequestTEST\apirequestTEST\obj\Debug\net5.0\ref\apirequestTEST.dll
+C:\Users\Benja\source\repos\apirequestTEST\apirequestTEST\obj\Debug\net5.0\apirequestTEST.pdb
+C:\Users\Benja\source\repos\apirequestTEST\apirequestTEST\obj\Debug\net5.0\apirequestTEST.genruntimeconfig.cache
